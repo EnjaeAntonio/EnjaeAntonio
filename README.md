@@ -12,19 +12,16 @@ I am a fairly new programmer and so far I am enjoying the struggle of learning n
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### Stats 🥇
+
+<img src = 'https://github-readme-stats.vercel.app/api?username=Enjaeantonio&theme=tokyonight' height = 200px> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight' height = 200px> 
+
 ### Other 🍎
 
 - 🌱 I'm currently Learning Tools and Automations 
 - 📫 How to reach me: Enjaeantonio@outlook.com 
 - ⚡ Fun fact: My favourite game is Call of Duty! 
 - ⬇️ Check out my social media pages below!
-
-
-### Stats 🥇
-
-<img src = 'https://github-readme-stats.vercel.app/api?username=Enjaeantonio&theme=tokyonight' height = 200px> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight' height = 200px> 
-
-
 ### Social Media 📱
 
 <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30' href = 'https://www.facebook.com/enjae.antoniocatacutan/'>  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30' href = 'https://www.instagram.com/enjaeantonio/' >  
