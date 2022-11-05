@@ -27,5 +27,5 @@ I am a fairly new programmer and so far I am enjoying the struggle of learning n
 
 ### Social Media 📱
 
-[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/enjae.antoniocatacutan/)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/enjaeantonio/)  
+<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30' href = 'https://www.facebook.com/enjae.antoniocatacutan/'>  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30' href = 'https://www.instagram.com/enjaeantonio/' >  
 
