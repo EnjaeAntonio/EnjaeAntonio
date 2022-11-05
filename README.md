@@ -22,7 +22,7 @@ I am a fairly new programmer and so far I am enjoying the struggle of learning n
 
 ### Stats 🥇
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enjaeantonio&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight)](https://github.com/enjaeantonio/github-readme-stats)
+[<img src = 'https://github-readme-stats.vercel.app/api?username=Enjaeantonio&theme=tokyonight' height= 30>] <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight' height = 30> 
 
 
 ### Social Media 📱
