@@ -1,5 +1,4 @@
-![I am a student at MITT](https://pbs.twimg.com/media/CIUcHvdUEAASbr3.png)
-
+![My Banner](banner.png)
 # Hi there 👋, my name is Enjae Antonio
 
 I was born in Winnipeg Manitoba, and I am currently on the path to becoming a full-stack developer at MITT. My current languages are HTML, CSS, and JavaScript. I enjoy developing websites and having everything come together and work! 
