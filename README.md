@@ -1,4 +1,5 @@
-<img src = 'banner.png'>
+![banner](https://user-images.githubusercontent.com/113195761/200460003-65e220ae-74ba-4c47-a144-a71ae15f03ef.png)
+
 # Hi there 👋, my name is Enjae Antonio
 
 I was born in Winnipeg Manitoba, and I am currently on the path to becoming a full-stack developer at MITT. My current languages are HTML, CSS, and JavaScript. I enjoy developing websites and having everything come together and work! 
