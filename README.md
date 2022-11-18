@@ -6,6 +6,8 @@ I was born in Winnipeg Manitoba, and I am currently on the path to becoming a fu
 
 I am a fairly new programmer and so far I am enjoying the struggle of learning new languages. Feel free to checkout my projects and provide some feedback to let me know on which areas I can improve on. Otherwise keep scrolling!
 
+Click <a href="https://enjaeantonio.github.io/personal-website/">Here</a> to know more about me!
+
 ## Skills and Experience ⌨️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
