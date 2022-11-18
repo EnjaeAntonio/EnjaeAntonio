@@ -23,7 +23,7 @@ Click <a target="_blank" href="https://enjaeantonio.github.io/personal-website/"
 
 ## Other 🍎
 
-- 🌱 I'm currently Learning Tools and Automations 
+- 🌱 I'm currently Learning Object Oriented JavaScript!
 - 📫 How to reach me: Enjaeantonio@outlook.com 
 - ⚡ Fun fact: My favourite game is Call of Duty! 
 - ⬇️ Check out my social media pages below!
