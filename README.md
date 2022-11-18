@@ -15,8 +15,7 @@ I am a fairly new programmer and so far I am enjoying the struggle of learning n
 
 
 ## Stats 🥇
-
-<img src="https://github.com/enjaeantonio/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" height = 200px/> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight' height = 200px> 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=enjaeantonio&theme=dark&background=000000" height = 200px/> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight' height = 200px> 
 
 
 ## Other 🍎
