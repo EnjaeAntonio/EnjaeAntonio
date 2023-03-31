@@ -2,9 +2,9 @@
 
 # Hi there 👋, my name is Enjae Antonio
 
-I was born in Winnipeg Manitoba, and I am currently on the path to becoming a full-stack developer at MITT. My current languages are HTML, CSS, and JavaScript. I enjoy developing websites and having everything come together and work! 
+Born in Winnipeg, Manitoba, I'm currently on my journey to become a full-stack developer at MITT. I'm proficient in HTML, CSS, JavaScript, and C#, and I love bringing websites to life by connecting all the pieces.
 
-I am a fairly new programmer and so far I am enjoying the struggle of learning new languages. Feel free to checkout my projects and provide some feedback to let me know on which areas I can improve on. Otherwise keep scrolling!
+As a Junior Developer, I embrace the learning process and welcome any feedback on my projects to help me improve. Feel free to check them out and let me know your thoughts. Keep scrolling to explore more!
 
 Click <a target="_blank" href="https://enjaeantonio.github.io/personal-website/">Here</a> to know more about me!
 
@@ -13,7 +13,7 @@ Click <a target="_blank" href="https://enjaeantonio.github.io/personal-website/"
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ## Stats 🥇
