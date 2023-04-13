@@ -32,7 +32,7 @@ This project is a front-end webpage that mimics a social media platform where us
 
 - 🌱 I'm currently Learning C# in school, and on the side im learning Python and Kotlin!
 - 📫 How to reach me: Enjaeantonio@outlook.com 
-- ⬇️ My LinkedIn: https://www.linkedin.com/in/enjae-antonio-a6a8b2256/!
+- ⬇️ My LinkedIn: https://www.linkedin.com/in/enjae-antonio-a6a8b2256/
 - ⚡ Fun fact: My favourite game is Call of Duty! 
 
 
