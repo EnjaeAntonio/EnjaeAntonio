@@ -6,26 +6,27 @@ I am 21 years old, I was born and raised in Winnipeg, Manitoba, and I'm currentl
 
 
 
-## Projects
+# Projects
 
 Here are some of the projects I have done at MITT
 
-### Code First Music System
+## Code First Music System
 This project is a full-stack Spotify-like application that was built using the code-first approach. The application allows users to search for and listen to music, and create playlists. I worked on implementing the database models, creating CRUD functionality for the database, and building the UI using ASP.NET MVC and Razor Pages.
-
-##### Technologies used: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23FF0000.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-
 
 ##### Link: https://github.com/EnjaeAntonio/CodeFirstMusicSystem 
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23FF0000.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-### Mock Social Media Platform
+
+
+
+
+## Mock Social Media Platform
 This project is a front-end webpage that mimics a social media platform where users can create posts containing text or image content and displays the posts on the webpage. I worked on designing the user interface and implementing the functionality to allow users to create and delete posts.
 
-##### Technologies used: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ##### Link: https://github.com/EnjaeAntonio/CodeFirstMusicSystem
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ## Other 🍎
 
