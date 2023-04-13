@@ -15,7 +15,8 @@ This project is a full-stack Spotify-like application that was built using the c
 
 ##### Link: https://github.com/EnjaeAntonio/CodeFirstMusicSystem 
 
-![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120)![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-black.svg?style=for-the-badge&logo=.net&logoColor=white&color=FF69B4)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![Entity Framework](https://img.shields.io/badge/Entity%20Framework-black.svg?style=for-the-badge&logo=.net&logoColor=white&color=FF69B4)
+![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120)![Entity Frameworks](https://img.shields.io/badge/Entity_Frameworks-pink.svg?style=for-the-badge&logo=.net&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-pink.svg?style=for-the-badge&logo=.net&logoColor=white)
+
 
 
 
