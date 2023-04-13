@@ -15,7 +15,7 @@ This project is a full-stack Spotify-like application that was built using the c
 
 ##### Link: https://github.com/EnjaeAntonio/CodeFirstMusicSystem 
 
-![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120)![Entity Frameworks](https://img.shields.io/badge/Entity_Frameworks-pink.svg?style=for-the-badge&logo=.net&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-pink.svg?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=blue)![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-pink.svg?style=for-the-badge&logo=.net&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![Entity Frameworks](https://img.shields.io/badge/Entity_Frameworks-pink.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
@@ -25,7 +25,7 @@ This project is a full-stack Spotify-like application that was built using the c
 This project is a front-end webpage that mimics a social media platform where users can create posts containing text or image content and displays the posts on the webpage. I worked on designing the user interface and implementing the functionality to allow users to create and delete posts.
 
 ##### Link: https://github.com/EnjaeAntonio/CodeFirstMusicSystem
-![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=blue)![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## Other 🍎
@@ -38,7 +38,7 @@ This project is a front-end webpage that mimics a social media platform where us
 
 ## Current Skills ⌨️
 
-![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-pink.svg?style=for-the-badge&logo=python&logoColor=white)![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120)![Kotlin](https://img.shields.io/badge/Kotlin-pink.svg?style=for-the-badge&logo=kotlin&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![NodeJS](https://img.shields.io/badge/node.js-pink?style=for-the-badge&logo=node.js&logoColor=black)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql&logoColor=black)![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=pink)![Azure Data Studio](https://img.shields.io/badge/azure%20data%20studio-pink?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=pink)![VS Code](https://img.shields.io/badge/VS%20Code-pink?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=blue)![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-pink.svg?style=for-the-badge&logo=python&logoColor=blue)![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=blue)![Kotlin](https://img.shields.io/badge/Kotlin-pink.svg?style=for-the-badge&logo=kotlin&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![NodeJS](https://img.shields.io/badge/node.js-pink?style=for-the-badge&logo=node.js&logoColor=Yellow)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql&logoColor=black)![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=Orange)![Azure Data Studio](https://img.shields.io/badge/azure%20data%20studio-pink?style=for-the-badge&logo=microsoft-sql-server&logoColor=blue)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple)![VS Code](https://img.shields.io/badge/VS%20Code-pink?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 
 
