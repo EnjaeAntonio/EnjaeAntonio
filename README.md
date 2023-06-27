@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/113195761/200460003-65e220ae-74ba-4c47-a144-a71ae15f03ef.png)
+![banner](https://raw.githubusercontent.com/EnjaeAntonio/EnjaeAntonio/main/Banner.png)
 
 # Hi there 👋, my name is Enjae Antonio
 
