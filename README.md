@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://raw.githubusercontent.com/EnjaeAntonio/EnjaeAntonio/main/banner.png)
 
 # Hi there 👋, my name is Enjae Antonio
 
