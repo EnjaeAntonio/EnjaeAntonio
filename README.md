@@ -31,7 +31,6 @@ This project is a front-end webpage that mimics a social media platform where us
 - 🌱 I am currently an intern at My Little Tribe!
 - 📫 How to reach me: Enjaeantonio@outlook.com 
 - ⬇️ My LinkedIn: https://www.linkedin.com/in/enjae-antonio-a6a8b2256/
-- ⚡ Fun fact: My favourite game is Call of Duty! 
 
 
 ## Current Skills ⌨️
