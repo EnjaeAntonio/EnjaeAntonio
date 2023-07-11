@@ -35,7 +35,7 @@ This project is a front-end webpage that mimics a social media platform where us
 
 ## Stats 🥇
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=enjaeantonio&theme=dark&background=000000" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight" width="400"/>
 </div>
