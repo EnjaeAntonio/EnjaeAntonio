@@ -32,10 +32,3 @@ This project is a front-end webpage that mimics a social media platform where us
 
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-pink.svg?style=for-the-badge&logo=css3&logoColor=blue)![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 ![Python](https://img.shields.io/badge/python-pink.svg?style=for-the-badge&logo=python&logoColor=blue)![C#](https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=blue)![Kotlin](https://img.shields.io/badge/Kotlin-pink.svg?style=for-the-badge&logo=kotlin&logoColor=white)![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=pink)![NodeJS](https://img.shields.io/badge/node.js-pink?style=for-the-badge&logo=node.js&logoColor=Yellow)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=pink)![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql&logoColor=black)![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=Orange)![Azure Data Studio](https://img.shields.io/badge/azure%20data%20studio-pink?style=for-the-badge&logo=microsoft-sql-server&logoColor=blue)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple)![VS Code](https://img.shields.io/badge/VS%20Code-pink?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-
-## Stats 🥇
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=enjaeantonio&theme=dark&background=000000" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjaeantonio&theme=tokyonight" width="400"/>
-</div>
