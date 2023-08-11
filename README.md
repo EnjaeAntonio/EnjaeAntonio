@@ -1,4 +1,4 @@
-![banner]()
+![banner](./enjae-banner.png)
 
 # Hi there 👋, my name is Enjae Antonio
 
