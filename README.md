@@ -2,7 +2,7 @@
 
 # Hi there 👋, my name is Enjae Antonio
 
-I am 22 years old, I was born and raised in Winnipeg, Manitoba and I am Junior Developer with a diploma in Software Development from Manitoba Institute of Trades & Technology (MITT). I am an proactive learner who enjoys creating new projects, being updated with the latest trends in the tech community and doing anything that develops myself as a person/programmer! My hobbies are weightlifting and video games. Want to get to know me more? Lets connect and collaborate!
+I'm a 22-year-old Junior Developer from Winnipeg, Manitoba with a diploma in Software Development from the Manitoba Institute of Trades & Technology (MITT). Passionate about tech, I'm always on the lookout for the latest trends and love diving into new projects that challenge and grow my skills. Outside of coding, you'll find me lifting weights or playing video games. Want to get to know me more? Let's connect and collaborate!
 
 Feel free to checkout my repositories!
 
